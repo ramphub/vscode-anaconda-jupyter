@@ -21,3 +21,9 @@ https://marketplace.visualstudio.com/items?itemName=donjayamanne.jupyter
 
 
 ```
+Tips
+```
+You can select the code snippet and run command task 'Jupyter : Run Selection/Line' to execute the code and
+print in 'Result' window
+
+You can add #%% before the snippet you want to run to click on the 'Run Cell' in the editor directly.
