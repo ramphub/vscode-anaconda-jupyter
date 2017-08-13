@@ -6,6 +6,8 @@ Setting up VSCode env for data science projects using Anaconda Python and Jupyte
 
 You will need the .settings and .launch setup. Either clone the project or simply copy them.
 
+Change the python path in the settings.json to suit your environment.
+
 ### Prerequisites
 
 Install Anaconda, Jupyter , you can google them.
