@@ -1,4 +1,4 @@
-# Project Title
+# VSCode for Data Science
 
 Setting up VSCode env for data science projects using Anaconda Python and Jupyter.
 
