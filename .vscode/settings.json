@@ -1,0 +1,10 @@
+{
+    //python3
+    //"python.pythonPath": "<path to your anaconda evn python instance>, below is the one in my setup",
+    "python.pythonPath": "D:/Apps/BuildTools/Anaconda/envs/tensor-train/python",
+    "python.jupyter.defaultKernel": "",
+    "python.jupyter.startupCode": [
+        "%matplotlib inline"
+    ],
+    "python.jupyter.appendResults": true
+}
